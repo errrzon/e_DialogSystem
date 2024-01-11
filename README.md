@@ -7,8 +7,8 @@
 This resource allows you to create basically anything you imagine with ped reputation system.
 
 ## Dependencies
-<a href="https://github.com/Demigod916/demi-pedmanager">demi-pedmanager<a/>
-You can make it work without this script if you have more than 2 brain cells, but if you don't use this script and read down below
+<a href="https://github.com/Demigod916/demi-pedmanager">demi-pedmanager<a/><br/>
+You can make it work without this script if you have more than 2 brain cells (and at least 2 weeks experience at coding) , but if you don't use this script and read down below
 ## Usage
 Simply export
 
