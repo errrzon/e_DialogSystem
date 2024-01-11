@@ -14,8 +14,7 @@ exports['e_DialogSystem']:interact(self.ped, self.Interact, #self.Interact)
 <div>self.ped is basically ped id used to get entity offset etc to make camera look fine.</div>
 <div>self.Interact is object that contains every info like pedName, pedType == reputation type so for example. hacking,sanitation,trucking etc. and rest is pretty self explanatory</div>
 
-
-<code>
+```sh
 Interact = {
                 pedName = "Reee man",
                 pedType = "ped__type",
@@ -39,13 +38,11 @@ Interact = {
                 exports['e_DialogSystem']:interact(self.entity, self.Interact, #self.Interact)
             end
         },
-<code/>
-
-
+```
 
 <h1>So below is PedList.lua file from demi-pedmanager, one ped is working with target, second one is working with his interaction system. Copy and have fun!</h1>
 
-<code>
+```sh
 Peds = {
     {
         model = "u_m_y_zombie_01",
@@ -121,7 +118,6 @@ Peds = {
     },
 }
 
-<code/>
-
+```
 <h1>##Contact</h1>
-<h1>discord: _erzn</h1>
+discord: _erzn
