@@ -11,9 +11,9 @@ This resource allows you to create basically anything you imagine with ped reput
 ## Usage
 Simply export
 exports['e_DialogSystem']:interact(self.ped, self.Interact, #self.Interact)
+<h1>self.ped is basically ped id used to get entity offset etc to make camera look fine.</h1>
+<h1>self.Interact is object that contains every info like pedName, pedType == reputation type so for example. hacking,sanitation,trucking etc. and rest is pretty self explanatory</h1>
 
-self.ped is basically ped id used to get entity offset etc to make camera look fine.\n
-self.Interact is object that contains every info like pedName, pedType == reputation type so for example. hacking,sanitation,trucking etc. and rest is pretty self explanatory
 
 <code>
 Interact = {
