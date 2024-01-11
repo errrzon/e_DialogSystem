@@ -123,5 +123,5 @@ Peds = {
 
 <code/>
 
-<h1>## Contact</h1>
-discord: _erzn
+<h1>##Contact</h1>
+<h1>discord: _erzn</h1>
