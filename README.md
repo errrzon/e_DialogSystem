@@ -10,7 +10,10 @@ This resource allows you to create basically anything you imagine with ped reput
 <a href="https://github.com/Demigod916/demi-pedmanager">demi-pedmanager<a/>
 ## Usage
 Simply export
+
+```sh
 exports['e_DialogSystem']:interact(self.ped, self.Interact, #self.Interact)
+```
 <div>self.ped is basically ped id used to get entity offset etc to make camera look fine.</div>
 <div>self.Interact is object that contains every info like pedName, pedType == reputation type so for example. hacking,sanitation,trucking etc. and rest is pretty self explanatory</div>
 
