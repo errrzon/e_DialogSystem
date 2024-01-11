@@ -1,7 +1,7 @@
 <h1 align="center">Fivem Ped Dialog System</h1>
 
 <div align="center">
-<img src="https://cdn.discordapp.com/attachments/1173957604104470530/1194802088283222106/image.png?ex=65b1ad28&is=659f3828&hm=7a6540cebaad449424435fda5eb8a0f7fba3f59c4c64e9ab9462563c11b3ce74&">
+<img src="[https://cdn.discordapp.com/attachments/1173957604104470530/1194802088283222106/image.png?ex=65b1ad28&is=659f3828&hm=7a6540cebaad449424435fda5eb8a0f7fba3f59c4c64e9ab9462563c11b3ce74&](https://cdn.discordapp.com/attachments/1173957604104470530/1194805148648743094/image.png?ex=65b1b001&is=659f3b01&hm=ccd0221580ffb3658dfc87ab5ce37de9a2682e61716bfc869f920461ffacd3ce&)">
 </div>
 
 This resource allows you to create basically anything you imagine with ped reputation system.
