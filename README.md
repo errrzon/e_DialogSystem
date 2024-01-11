@@ -14,10 +14,8 @@ Simply export
 ```sh
 exports['e_DialogSystem']:interact(self.ped, self.Interact, #self.Interact)
 ```
-```diff
-+ self.ped is basically ped id used to get entity offset etc to make camera look fine.
-- self.Interact is object that contains every info like pedName, pedType == reputation type so for example. hacking,sanitation,trucking etc. and rest is pretty self explanatory
-```
+self.ped is basically ped id used to get entity offset etc to make camera look fine.
+self.Interact is object that contains every info like pedName, pedType == reputation type so for example. hacking,sanitation,trucking etc. and rest is pretty self explanatory
 
 ```sh
 Interact = {
