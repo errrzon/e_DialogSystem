@@ -18,6 +18,7 @@ Simply export
 TriggerServerEvent("ex_interaction:increasePedREP",pedType,howMuch) -- pedType from Interact object, howMuch to add (maxRep = 100)
 
 TriggerServerEvent("ex_interaction:decreasePedREP",pedType,howMuch) -- same just for decrasing.. (minRep = 0)
+```
 ```sh
 exports['e_DialogSystem']:interact(self.ped, self.Interact, #self.Interact)
 ```
