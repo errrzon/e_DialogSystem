@@ -12,7 +12,7 @@ This resource allows you to create basically anything you imagine with ped reput
 Simply export
 exports['e_DialogSystem']:interact(self.ped, self.Interact, #self.Interact)
 <div>self.ped is basically ped id used to get entity offset etc to make camera look fine.</div>
-<h1>self.Interact is object that contains every info like pedName, pedType == reputation type so for example. hacking,sanitation,trucking etc. and rest is pretty self explanatory</h1>
+<div>self.Interact is object that contains every info like pedName, pedType == reputation type so for example. hacking,sanitation,trucking etc. and rest is pretty self explanatory</div>
 
 
 <code>
@@ -43,7 +43,7 @@ Interact = {
 
 
 
-So below is PedList.lua file from demi-pedmanager, one ped is working with target, second one is working with his interaction system. Copy and have fun!
+<h1>So below is PedList.lua file from demi-pedmanager, one ped is working with target, second one is working with his interaction system. Copy and have fun!</h1>
 
 <code>
 Peds = {
@@ -123,5 +123,5 @@ Peds = {
 
 <code/>
 
-## Contact
+<h1>## Contact</h1>
 discord: _erzn
