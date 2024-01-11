@@ -1,0 +1,37 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito&family=Roboto&display=swap');
+
+body {
+    font-family: Roboto;
+    /* background: url("https://pliki.ppe.pl/storage/416f4540c8e86f636805/416f4540c8e86f636805.jpg"); */
+    overflow: hidden;
+    -webkit-user-select: none;
+    /* Safari */
+    -ms-user-select: none;
+    /* IE 10 and IE 11 */
+    user-select: none;
+    /* Standard syntax */
+}
+
+.main-container {
+    display: flex;
+    flex-direction: column;
+    position: absolute;
+    width: 500px;
+    height: 400px;
+    left: 50%;
+    bottom: 2%;
+    background-color: rgba(38, 71, 110, 0.8);
+    box-shadow: 0 0 0.3em rgb(48, 75, 135, 0.5);
+    transform: translate(-50%, 0);
+    border-radius: 5px;
+    gap: 1.5em;
+}
+
+/* .hide {
+    display: none !important;
+} */
+/* 
+.show {
+    display: flex;
+    flex-direction: column;
+} */

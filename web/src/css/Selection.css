@@ -1,0 +1,30 @@
+.selection-main {
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    cursor: pointer;
+}
+
+.selection-wrapper {
+    padding: 0 .5em;
+    display: flex;
+    color: white;
+    background-color: #3a5886c4;
+    align-items: center;
+    gap: .5em;
+    width: 40%;
+}
+
+.selection-wrapper div {
+    display: flex;
+    background-color: #3885f8;
+    width: 25px;
+    height: 25px;
+    align-items: center;
+    justify-content: center;
+    border-radius: 2px;
+}
+
+.selection-wrapper h3 {
+    font-size: 1em;
+}

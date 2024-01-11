@@ -1,0 +1,21 @@
+.text-container {
+    margin: .4em 1em 0;
+    background-color: #3a5886c4;
+    font-size: 1.1em;
+    color: white;
+    white-space: normal;
+    padding: .4em;
+    border-radius: 5px;
+    min-height: 45%;
+    max-height: 45%;
+    overflow-y: auto;
+}
+
+.text-container::-webkit-scrollbar {
+    width: 5px;
+}
+
+.text-container::-webkit-scrollbar-thumb {
+    background: #4b70a8c4;
+    border-radius: 10px;
+}
