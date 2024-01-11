@@ -109,14 +109,7 @@ Peds = {
                 end
             },
             default = {
-                dialog =
-                    "In the heart of the bustling city, where the streets hummed with the symphony of life, there existed a quaint little bookstore tucked away between towering skyscrapers. Its weathered facade, adorned with ivy creeping along the edges, hinted at stories within that were as old as time itself. The wooden door, with its brass handle polished by the touch of countless curious minds, welcomed all who sought refuge in the pages of forgotten tales and undiscovered adventures." ..
-                    "Stepping across the threshold felt like traversing a portal into an alternate realm—one where time slowed to a gentle rhythm and the scent of aged parchment hung delicately in the air. Sunlight danced through the windows, casting ethereal patterns upon shelves that sagged under the weight of knowledge and imagination." ..
-                    "Each book seemed to possess a life of its own, whispering promises of uncharted lands, thrilling escapades, and profound wisdom. Leather-bound tomes nestled beside modern paperbacks, forming a mosaic of genres and eras that catered to every yearning soul seeking solace or enlightenment." ..
-                    "The bookstore keeper, a gentle soul with eyes that mirrored the wisdom of centuries, moved among the aisles like a guardian spirit. Their soft-spoken recommendations were steeped in an intimate knowledge of each book's essence, guiding patrons to literary treasures that resonated with their very essence." ..
-                    "As visitors perused the shelves, the ambiance hummed with the quiet rustle of pages being turned, occasional gasps of wonderment, and the distant sounds of the city fading into obscurity. It was a sanctuary where one could lose track of time, where the outside world ceased to exist, and where the imagination reigned supreme." ..
-                    "In this haven of boundless narratives, people from all walks of life found themselves united by a common thread—the love for stories. Strangers would strike conversations over a shared favorite book, exchanging anecdotes and insights as if they had known each other for a lifetime." ..
-                    "And so, this unassuming bookstore stood not merely as a vendor of books but as a haven for dreamers, a sanctuary for the seekers of truth, a rendezvous point for kindred spirits brought together by the magic woven within the pages of every tome.",
+                dialog = "sd"
                 action = function(self)
                     print("xyz")
                 end
