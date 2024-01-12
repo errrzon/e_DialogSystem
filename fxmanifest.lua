@@ -5,7 +5,7 @@ game 'gta5'
 lua54 'yes'
 
 server_script 'dist/server/**/*.js'
-client_scripts 'dist/client/**/*.js'
+client_script 'dist/client/**/*.js'
 
 ui_page 'web/dist/index.html'
 
